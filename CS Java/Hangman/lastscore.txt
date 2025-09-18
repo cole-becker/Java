@@ -1,0 +1,5 @@
+Total Points Scored: 50
+Total Games Played: 1
+Total Wins: 1
+Total Losses: 0
+Win Percentage = 100%

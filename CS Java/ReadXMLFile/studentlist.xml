@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Class>
+    <Student Grade="9">
+        <firstname>Chris</firstname>
+        <lastname>Smith</lastname>
+        <Phone>555-1313</Phone>
+        <Sex>Female</Sex>
+    <dateofbirth>12/11/2000</dateofbirth>
+    </Student>
+    <Student Grade="10">
+        <firstname>Cody</firstname>
+        <lastname>Jones</lastname>
+        <Phone>555-9089</Phone>
+        <Sex>Male</Sex>
+    </Student>
+    <Student Grade="11">
+        <firstname>Dale</firstname>
+        <lastname>Chan</lastname>
+        <Phone>555-0001</Phone>
+        <Sex>Male</Sex>
+    <age>17</age>
+    </Student>
+    <Student Grade="12">
+        <firstname>Samaiya</firstname>
+        <lastname>Habbib</lastname>
+        <Phone>555-0976</Phone>
+        <Sex>Female</Sex>
+    </Student>
+</Class>
